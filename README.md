@@ -1,6 +1,6 @@
-# minimal-search
+# minimal search
 minimalist google search page
 
-## [Link to the page](https://minimal-search.reb-oliveira.repl.co/)
-
+## [link to the page](https://minimal-search.reb-oliveira.repl.co/)
+<br>
 <img src="img/banner.png">
